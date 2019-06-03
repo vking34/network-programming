@@ -1,0 +1,19 @@
+# stringbuilder
+
+https://vietjack.com/java/lop_stringbuilder_trong_java.jsp
+
+# DNS java example
+
+http://www.xbill.org/dnsjava/dnsjava-current/examples.html
+
+# JDBC
+https://www.tutorialspoint.com/jdbc/jdbc-sample-code.htm
+
+# run server
+/usr/lib/jvm/jdk1.8.0_201/bin/java -javaagent:/opt/idea-IU-183.5912.21/lib/idea_rt.jar=38623:/opt/idea-IU-183.5912.21/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/jdk1.8.0_201/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/deploy.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/jaccess.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/localedata.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/nashorn.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunec.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/zipfs.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/javaws.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jfxswt.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/management-agent.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/plugin.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/rt.jar:/root/IdeaProjects/networking/out/production/networking:/root/IdeaProjects/networking/lib/dnsjava-2.1.8.jar:/root/IdeaProjects/networking/lib/mysql-connector-java-8.0.15.jar:/root/IdeaProjects/networking/lib/protobuf-java-3.6.1.jar server.DnsServer
+
+# run client
+/usr/lib/jvm/jdk1.8.0_201/bin/java -javaagent:/opt/idea-IU-183.5912.21/lib/idea_rt.jar=35577:/opt/idea-IU-183.5912.21/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/jdk1.8.0_201/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/deploy.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/jaccess.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/localedata.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/nashorn.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunec.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/ext/zipfs.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/javaws.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jfxswt.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/management-agent.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/plugin.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_201/jre/lib/rt.jar:/root/IdeaProjects/networking/out/production/networking:/root/IdeaProjects/networking/lib/dnsjava-2.1.8.jar:/root/IdeaProjects/networking/lib/mysql-connector-java-8.0.15.jar:/root/IdeaProjects/networking/lib/protobuf-java-3.6.1.jar client.DnsClient
+
+
+125.212.247.216
